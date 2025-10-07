@@ -3,6 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ticket_Booking.iml" filepath="$PROJECT_DIR$/.idea/modules/Ticket_Booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ticket_Booking.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ticket_Booking.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ticket_Booking.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ticket_Booking.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ticket_Booking.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ticket_Booking.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/Ticket_Booking.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/Ticket_Booking.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/Ticket_Booking.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/Ticket_Booking.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/Ticket_Booking.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/Ticket_Booking.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/Ticket_Booking.list.iml" filepath="$PROJECT_DIR$/.idea/modules/list/Ticket_Booking.list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/Ticket_Booking.list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/list/Ticket_Booking.list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/Ticket_Booking.list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/list/Ticket_Booking.list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/Ticket_Booking.utilities.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/Ticket_Booking.utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/Ticket_Booking.utilities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/Ticket_Booking.utilities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/Ticket_Booking.utilities.test.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/Ticket_Booking.utilities.test.iml" />
     </modules>
   </component>
 </project>
